@@ -1,0 +1,5 @@
+<%= form_for [Opinion.new] do |f| %> 
+                <%= f.text_area :text, class: 'tweet-composer', rows: 4, placeholder: 'Whistle to the World' %>
+                <%= f.file_field :image, class: 'custom-file-input' %>
+                 <%= f.submit "Whistle", class: "tweet-btn d-block" %>
+            <% end %>
