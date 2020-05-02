@@ -1,24 +1,32 @@
-# README
+# Mini-Facebook-Clone
+> Features: posting, following, liking and authentication
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![tweetpage-rails](https://user-images.githubusercontent.com/17970203/80851512-2a017b80-8c1a-11ea-8ae4-3d9f2ceb3fea.png)
 
-Things you may want to cover:
+## Description:
+A mini twitter clone using Ruby on Rails.
+- Users are able to register and login
+- Users can share opinions
+- Users can follow anyone they would like to
+- Users are able to like posts
 
-* Ruby version
+## Built With
+- Ruby on Rails
+- Postgresql
+- Javascript
+- HTML/CSS(Flexbox)
 
-* System dependencies
+## Live Demo
+[Click Here](https://shrouded-meadow-78537.herokuapp.com/)
 
-* Configuration
+## Authors:
+👤 Mike
+[Github  Link](https://github.com/MarvellousUbani)
 
-* Database creation
+## 🤝 Contributing
+Contributions, issues and feature requests are welcome!
 
-* Database initialization
+Feel free to check the issues page.
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Give a ⭐️ if you like this project!
