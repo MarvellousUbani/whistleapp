@@ -17,7 +17,7 @@ A mini twitter clone using Ruby on Rails.
 - HTML/CSS(Flexbox)
 
 ## Live Demo
-[Click Here](https://shrouded-meadow-78537.herokuapp.com/)
+[Click Here](https://evening-brushlands-66893.herokuapp.com/)
 
 ## Authors:
 👤 Mike
