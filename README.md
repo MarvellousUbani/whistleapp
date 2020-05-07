@@ -34,6 +34,7 @@ A mini twitter clone using Ruby on Rails.
 
 ## Authors:
 👤 Mike
+
 [Github  Link](https://github.com/MarvellousUbani)
 
 ## 🤝 Contributing
