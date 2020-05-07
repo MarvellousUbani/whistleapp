@@ -16,7 +16,6 @@ class OpinionsController < ApplicationController
   def index
     @opinion = Opinion.new
     @opinions = Opinion.all
-    @nofollowers = User.where.not(id: current_user.followers)
   end
 
   def destroy

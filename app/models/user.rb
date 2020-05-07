@@ -54,4 +54,8 @@ class User < ApplicationRecord
     inverse_followings.map{|following| following.user }
   end
 
+  def nofollowers
+    User.where.not(id: self.followers)
+  end
+
 end

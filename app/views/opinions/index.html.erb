@@ -15,7 +15,7 @@
         </div>
         <div class="col followers-col">
             <p>Who to follow</p>
-           <% @nofollowers.each do|user| %>
+           <% current_user.nofollowers.each do|user| %>
               <% unless current_user == user %>
                <div class="row j-between">
                  <div class="row s-person">

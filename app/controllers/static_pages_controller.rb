@@ -1,6 +1,5 @@
 class StaticPagesController < ApplicationController
   def connect
-  	@nofollowers = User.where.not(id: current_user.followers)
   end
 
   def notifications
