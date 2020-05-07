@@ -19,6 +19,19 @@ A mini twitter clone using Ruby on Rails.
 ## Live Demo
 [Click Here](https://evening-brushlands-66893.herokuapp.com/)
 
+## How to Run the App Locally
+```
+	git clone https://github.com/MarvellousUbani/whistleapp.git
+   cd whistle
+   bundle install
+   rails db:create
+   rails db:migrate
+   rspec #run tests
+   rails server #run server
+   open localhost:3000 on browser
+
+```
+
 ## Authors:
 👤 Mike
 [Github  Link](https://github.com/MarvellousUbani)
