@@ -1,4 +1,5 @@
-# Mini-Facebook-Clone
+## Whistle
+### Mini-Twitter-Clone
 > Features: posting, following, liking and authentication
 
 ![tweetpage-rails](https://user-images.githubusercontent.com/17970203/80851512-2a017b80-8c1a-11ea-8ae4-3d9f2ceb3fea.png)
