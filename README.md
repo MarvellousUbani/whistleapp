@@ -21,7 +21,7 @@ A mini twitter clone using Ruby on Rails.
 
 ## How to Run the App Locally
 ```
-	git clone https://github.com/MarvellousUbani/whistleapp.git
+   git clone https://github.com/MarvellousUbani/whistleapp.git
    cd whistle
    bundle install
    rails db:create
