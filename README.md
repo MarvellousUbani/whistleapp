@@ -18,7 +18,7 @@ A mini twitter clone using Ruby on Rails.
 - HTML/CSS(Flexbox)
 
 ## Live Demo
-[Click Here](https://afternoon-escarpment-91282.herokuapp.com/)
+[Click Here](https://whistlemania.herokuapp.com/)
 
 ## How to Run the App Locally
 ```
