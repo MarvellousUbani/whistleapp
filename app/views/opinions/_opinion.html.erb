@@ -1,5 +1,5 @@
  <div class="tweet row">
-                <%= image_tag opinion.author.avatar , class: "s-profile-pic", alt: "big profile image" %>
+                <%= image_tag opinion.author.avatar , class: "s-profile-pic", alt: "big profile image" if opinion.author.avatar.attached? %>
                 <div class="tweet-post">
                     <% if opinion.image.attached? %>
                     <%= image_tag opinion.image, class: 'post-pic' %>
